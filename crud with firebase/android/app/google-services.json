@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684957781053",
+    "project_id": "project-360ec",
+    "storage_bucket": "project-360ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684957781053:android:d28b4aa429bb0035c12e54",
+        "android_client_info": {
+          "package_name": "validatorapp.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684957781053-4001eitd4698jfo6q90ho3q7q1vu37dp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCduaguIIxQutauJCOpp-UbPXJr-ooquZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684957781053-4001eitd4698jfo6q90ho3q7q1vu37dp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
